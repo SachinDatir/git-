@@ -27,3 +27,4 @@
 // 17)add and commit on new branch and push the branch to remote
 // 18)create pull request and merge 
 // 19)git branch -d aone
+//  "GIT merge"
